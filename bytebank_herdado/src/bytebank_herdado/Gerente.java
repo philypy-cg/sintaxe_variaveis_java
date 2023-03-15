@@ -1,9 +1,10 @@
 package bytebank_herdado;
+
 // Gerente é um funcionario, Gerente herda da class funcionario
 public class Gerente extends Funcionario {
-	
+
 	private int senha;
-	
+
 	public void setSenha(int senha) {
 		this.senha = senha;
 	}
@@ -16,10 +17,8 @@ public class Gerente extends Funcionario {
 		}
 	}
 
-	//public double getBonificacao() {
-	//	return this.salario;
-	//}
-
-	
+	public double getBonificacao() {
+		return (this.salario * 0.1) + super.salario;
+	}
 
 }
