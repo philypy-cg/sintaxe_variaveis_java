@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.awt.peer.SystemTrayPeer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.ContaCorrente"/>
+    <fullyQualifiedTypeName name="bytebank_herdado_conta.ContaPoupanca"/>
 </qualifiedTypeNameHistroy>
