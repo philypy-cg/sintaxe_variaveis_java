@@ -7,10 +7,7 @@ public class Conta {
 	private Cliente titular;
 	private static int total;
 	
-	public Conta() {
-		
-	}
-	
+
 
 	public Conta(int agencia, int numero) {
 		Conta.total++;
