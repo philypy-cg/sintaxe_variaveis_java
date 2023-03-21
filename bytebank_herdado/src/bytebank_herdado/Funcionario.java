@@ -1,6 +1,7 @@
 package bytebank_herdado;
 
-public class Funcionario {
+// não pode instanciar (criar objetos) dessa classe, pq é abstrata
+public abstract class Funcionario {
 	private String nome;
 	private String cpf;
 	private double salario;
