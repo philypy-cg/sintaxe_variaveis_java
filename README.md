@@ -1,6 +1,6 @@
 # sintaxe_variaveis_java
 
-# Projeto em andamento sobre Java O O
+# Projeto em andamento sobre Java O O e verificação do polimorfismo
 
 # Linguagens e Ferramentas utilizadas no Projeto:
 
