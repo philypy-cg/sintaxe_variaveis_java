@@ -2,7 +2,7 @@
 
 # Projeto em andamento sobre Java O O e verificação do polimorfismo e resoluções pelo Uri e andamento em vetores e verificação de  teste
 Teste finalizado
-Busca de  API.
+inclusão de banco de dados 
 
 # Linguagens e Ferramentas utilizadas no Projeto:
 
